@@ -16,7 +16,7 @@ public class IdadeAluno {
             System.out.println("Insira a idade: ");
             int idade = scan.nextInt();
 
-            
+
 
             System.out.printf("\nNome do aluno e %s", nome);
             System.out.printf("\nA idade e %d", idade);
